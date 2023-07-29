@@ -1,0 +1,6 @@
+Assume you're given the table on user viewership categorised by device type where the three types are laptop, tablet, and phone.
+
+Write a query that calculates the total viewership for laptops and mobile devices where mobile is defined as either tablet or phone viewership.
+Output the total viewership for laptops as laptop_reviews and the total viewership for mobile devices as mobile_views.
+
+Learn more at https://datalemur.com/questions/laptop-mobile-viewership

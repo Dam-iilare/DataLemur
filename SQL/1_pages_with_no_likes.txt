@@ -1,0 +1,6 @@
+Given two tables containing data about Facebook Pages and their corresponding likes.
+
+Write a query to return the IDs of the Facebook pages that have zero likes, sorted in ascending 
+order based on the IDs.
+
+Learn more at https://datalemur.com/questions/sql-page-with-no-likes
